@@ -84,4 +84,4 @@ XWormKill // ARCHIVED
 ⸻
 
 ◈ Screenshots
-[XWormKill](https://github.com/sCars-501/XwormKill/blob/c5f6d17375089b15e4842fd2d55e124fdc560c03/XwormKill.rar)
+[XWormKill]((https://github.com/sCars-501/XwormKill/blob/f91f646c65e6b3e09ddd5d56b8cb3ccf77b10703/RADEME.jpg))
