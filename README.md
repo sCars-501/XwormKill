@@ -1,5 +1,5 @@
 ◈ Screenshots
-[XWormKill]((https://github.com/sCars-501/XwormKill/blob/f91f646c65e6b3e09ddd5d56b8cb3ccf77b10703/RADEME.jpg))
+[XWormKill](https://github.com/sCars-501/XwormKill/blob/f91f646c65e6b3e09ddd5d56b8cb3ccf77b10703/RADEME.jpg)
 
 # ⛧ XWormKill
 ═══════════════════════════════
